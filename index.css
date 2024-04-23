@@ -1,0 +1,59 @@
+body {
+   /*  background-image: url("station.jpg"); */
+   /*  background-size: cover; */
+    font-family: Roboto,  BlinkMacSystemFont, 'Segoe UI',  Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+#box {
+    background-image: url("morbiuzz_japanese_samurai_fighting_samurai_red_green_yellow_dra_2577a1fe-3861-4eb5-8170-5a6e5de0acf0.png");
+    background-size: cover;
+    margin: 40px;
+    border: 3px solid darkgreen; additive-symbols;
+    border-radius: 20px;
+    padding: 30px 10px;
+    color: white;
+    
+}
+
+
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(0, 255, 0, 0.5);
+    
+    border-radius: 10px;
+}
+
+h1:hover {
+    color: orange;
+}
+
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
